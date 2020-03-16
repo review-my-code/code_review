@@ -156,6 +156,15 @@ int main() {
         std::cout << i << ", " << j << '\n';
     
     /*
+        Equivalent python code for reference:
+        
+        for i, j in zip(x, y):
+            print(f"{i}, {j}")
+    */
+    
+    
+    
+    /*
     
     OUTPUT:
     
